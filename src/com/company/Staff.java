@@ -34,5 +34,4 @@ public class Staff extends Person {
                 ", pay=" + pay +
                 '}';
     }
-
 }
